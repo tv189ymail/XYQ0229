@@ -1,12 +1,5 @@
-{
-    "urls": [
-        {
-      {
-    "urls": [
-        {
-      {
-    "urls": [
-        {
+{"urls": [
+       {
             "url": "https://raw.githubusercontent.com/tv189ymail/XYQ0229/main/XYQTVBox.json",
             "name": "香雅情线路(海阔推送)",
             "time": "2023-03-09"
@@ -21,8 +14,9 @@
             "name": "FongMi本地(阿里系)",
             "time": "2023-03-09"
         }
-    ]
-}
-        }
-    ]
+
+
+
+
+]
 }
