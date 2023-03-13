@@ -15,5 +15,5 @@ clan://localhost/XYQTVBox/FongMi/config.json
 clan://localhost/XYQTVBox/hiker_store.json
 
 导入地址
-https://agit.ai/xx03253/xxu.git
-https://agit.ai/xx03253/xxu.git
+git@framagit.org:lzk23559/tvbox.git
+https://framagit.org/lzk23559/tvbox.git
