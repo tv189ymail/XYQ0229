@@ -4,12 +4,15 @@
       {
     "urls": [
         {
-            "url": "clan://localhost/XYQTVBox/XYQTVBox.json",
+      {
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/tv189ymail/XYQ0229/main/XYQTVBox.json",
             "name": "香雅情线路(海阔推送)",
             "time": "2023-03-09"
         },
         {
-            "url": "clan://localhost/XYQTVBox/drpy_js/drjs_config.json",
+            "url": "https://raw.githubusercontent.com/tv189ymail/XYQ0229/main/drpy_js/drjs_config.json",
             "name": "道长JS线路(本地)",
             "time": "2023-03-09"
         },
@@ -19,7 +22,7 @@
             "time": "2023-03-09"
         }
     ]
-}: "2023-03-09"
+}
         }
     ]
 }
